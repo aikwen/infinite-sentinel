@@ -1,0 +1,1 @@
+export { default as InfiniteSentinel } from './InfiniteSentinel.vue'
